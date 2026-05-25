@@ -33,8 +33,6 @@ My dissertation brings together two central categories of phenomenological resea
 
 My dissertation project is supervised by [Prof. Neetu Khanna](https://dornsife.usc.edu/profile/neetu-khanna/) and advised by [Prof. Priya Jaikumar](https://cinema.usc.edu/directories/profile.cfm?id=6548), [Prof. Vanessa Schwartz](https://dornsife.usc.edu/vanessaschwartz/), [Prof. Panivong Norindr](https://dornsife.usc.edu/profile/panivong-norindr/) and [Prof. Ronald Mendoza-de Jesús](https://complit.emory.edu/people/bios/mendozadejesus-ronald.html) 
 
- 
-You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
