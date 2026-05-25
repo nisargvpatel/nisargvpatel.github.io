@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D candidate, University of Southern California</a>.[nvpatel@usc.edu](nvpatel@usc.edu)
+subtitle: <a href='#'>Ph.D. candidate, University of Southern California</a>.[nvpatel@usc.edu](nvpatel@usc.edu)
 
 profile:
   align: right
