@@ -7,7 +7,7 @@ subtitle: <a href='#'>University of Southern California</a>. nvpatel@usc.edu
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Taper Hall 166</p>
     <p>3501 Trousdale Pkwy</p>
