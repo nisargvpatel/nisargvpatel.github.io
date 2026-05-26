@@ -30,6 +30,33 @@ cv:
         end_date: 2020
         highlights:
           - GPA 3.97/4.00
+
+      - institution: University of Toronto
+        location: Ontario, Canada
+        area: English Literature (major), Cinema Studies (minor), Literary Theory and Criticism (minor) 
+        studyType: Bachelor of Arts (Honors) 
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - GPA 3.74/4.00
+
+      - institution: Indira Gandhi Open University
+        location: India
+        area: Philosophy  
+        studyType: Bachelor of Arts 
+        start_date: 2013
+        end_date: 2016
+        highlights:
+          - First Class
+      
+      - institution: Gujarat Technological University
+        location: Gujarat, India
+        area: Production Engineering   
+        studyType: Bachelor of Engineering 
+        start_date: 2012
+        end_date: 2013
+        highlights:
+          - GPA 8.14/10.00
           
     Experience:
       - company: Institute for Advanced Study, Princeton University
