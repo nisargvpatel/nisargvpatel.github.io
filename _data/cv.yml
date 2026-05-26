@@ -32,15 +32,15 @@ cv:
           - USC Center for Excellence in Teaching Certificate (2024, USC)
           - Digital Media and Culture Certificate (2023, USC)
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Toronto
+        location: Ontario, Canada
+        area: Comparative Literature
+        studyType: Master of Arts
+        start_date: 2019
+        end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - GPA: 3.74/4.00
+      
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
