@@ -132,6 +132,22 @@ cv:
         awarder: Birla Vishwakarma Mahavidyalaya
 #        summary: 
 
+    Fellowships:
+      - title: USC Graduate School Summer Research and Writing Grant
+        institution: University of Southern California
+        date: 2026
+        
+      - title: Graduate Scholar, Society of Fellows in Humanities 
+        institution: Levan Institute of Humanities, USC
+        date: 2025-2026
+
+        - title: Terera Wilson Endowed Fellowship 
+        institution: USC
+        date: 2025-2026
+
+        - title: Graduate Scholar, Society of Fellows in Humanities 
+        institution: Levan Institute of Humanities, USC
+        date: 2025-2026
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -203,22 +219,22 @@ cv:
 
     References:
       - name: Professor Neetu Khanna, University of Southern California
-#        icon: fa-solid fa-laptop
-         Email: neetukha@usc.edu
+        icon: fa-solid fa-laptop
+        Email: neetukha@usc.edu
          
       - name: Professor Panivong Norindr, University of Southern California
-#        icon: fa-solid fa-thumbtack
-         Email: norindr@college.usc.edu
+        icon: fa-solid fa-thumbtack
+        Email: norindr@college.usc.edu
          
       - name: Professor Priya Jaikumar, University of Southern California
-#        icon: fa-solid fa-thumbtack
-         Email: pjaikumar@cinema.usc.edu
+        icon: fa-solid fa-thumbtack
+        Email: pjaikumar@cinema.usc.edu
 
       - name: Professor Vanessa Schwartz, University of Southern California
-#        icon: fa-solid fa-thumbtack
-         Email: vschwart@usc.edu
+        icon: fa-solid fa-thumbtack
+        Email: vschwart@usc.edu
 
       - name: Professor Ronald Mendoza-de Jesús, Emory University 
-#        icon: fa-solid fa-thumbtack
+        icon: fa-solid fa-thumbtack
          Email: rmendoz@emory.edu
-         
+      
