@@ -204,8 +204,21 @@ cv:
     References:
       - name: Professor Neetu Khanna, University of Southern California
 #        icon: fa-solid fa-laptop
-#        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+         Email: neetukha@usc.edu
+         
+      - name: Professor Panivong Norindr, University of Southern California
+#        icon: fa-solid fa-thumbtack
+         Email: norindr@college.usc.edu
+         
+      - name: Professor Priya Jaikumar, University of Southern California
+#        icon: fa-solid fa-thumbtack
+         Email: pjaikumar@cinema.usc.edu
 
-      - name: Professor 
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Vanessa Schwartz, University of Southern California
+#        icon: fa-solid fa-thumbtack
+         Email: vschwart@usc.edu
+
+      - name: Professor Ronald Mendoza-de Jesús, Emory University 
+#        icon: fa-solid fa-thumbtack
+         Email: rmendoz@emory.edu
+         
