@@ -261,23 +261,19 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
-  - name: Professor Neetu Khanna, University of Southern California
-    icon: fa-solid fa-laptop
-    reference: neetukha@usc.edu
+Fellowships:
+  - title: USC Graduate School Summer Research and Writing Grant
+    institution: University of Southern California
+    date: 2026
 
-  - name: Professor Panivong Norindr, University of Southern California
-    icon: fa-solid fa-thumbtack
-    reference: norindr@college.usc.edu
+  - title: Graduate Scholar, Society of Fellows in Humanities
+    institution: Levan Institute of Humanities, USC
+    date: 2025-2026
 
-  - name: Professor Priya Jaikumar, University of Southern California
-    icon: fa-solid fa-thumbtack
-    reference: pjaikumar@cinema.usc.edu
+  - title: Terera Wilson Endowed Fellowship
+    institution: USC
+    date: 2025-2026
 
-  - name: Professor Vanessa Schwartz, University of Southern California
-    icon: fa-solid fa-thumbtack
-    reference: vschwart@usc.edu
-
-  - name: Professor Ronald Mendoza-de Jesús, Emory University
-    icon: fa-solid fa-thumbtack
-    reference: rmendoz@emory.edu
+  - title: VSGC Summer Research Fellowship ($2000)
+    institution: VSRI, USC
+    date: 2025
