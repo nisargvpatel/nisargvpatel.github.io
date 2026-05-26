@@ -5,17 +5,12 @@ cv:
   location: Los Angeles, California
 
   sections:
-  
     Education:
       - institution: University of Southern California
         location: California, USA
-        url: nisargvpatel.github.io
         area: Comparative Studies in Literature and Culture
-        studyType: PhD
+        degree: PhD
         start_date: 2021
-        end_date: 
-        score: ""
-        courses: ""
         highlights:
           - Ph.D. Academy Certificate in Communication, Leadership, and Management (2025, USC)
           - Visual Studies Graduate Certificate (2024, USC)
@@ -25,7 +20,7 @@ cv:
       - institution: University of Toronto
         location: Ontario, Canada
         area: Comparative Literature
-        studyType: Master of Arts
+        degree: Master of Arts
         start_date: 2019
         end_date: 2020
         highlights:
@@ -33,8 +28,8 @@ cv:
 
       - institution: University of Toronto
         location: Ontario, Canada
-        area: English Literature (major), Cinema Studies (minor), Literary Theory and Criticism (minor) 
-        studyType: Bachelor of Arts (Honors) 
+        area: English Literature (major), Cinema Studies (minor), Literary Theory and Criticism (minor)
+        degree: Bachelor of Arts (Honors)
         start_date: 2016
         end_date: 2019
         highlights:
@@ -42,22 +37,22 @@ cv:
 
       - institution: Indira Gandhi Open University
         location: India
-        area: Philosophy  
-        studyType: Bachelor of Arts 
+        area: Philosophy
+        degree: Bachelor of Arts
         start_date: 2013
         end_date: 2016
         highlights:
           - First Class
-      
+
       - institution: Gujarat Technological University
         location: Gujarat, India
-        area: Production Engineering   
-        studyType: Bachelor of Engineering 
+        area: Production Engineering
+        degree: Bachelor of Engineering
         start_date: 2012
         end_date: 2013
         highlights:
           - GPA 8.14/10.00
-          
+
     Experience:
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
