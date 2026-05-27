@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of my academic-adjacent projects
+description: List of my Academic-adjacent Projects
 nav: true
 nav_order: 5
 display_categories: [work, fun]
