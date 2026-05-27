@@ -79,66 +79,22 @@ cv:
         awarder: Birla Vishwakarma Mahavidyalaya
 
     Fellowships:
-  - title: USC Graduate School Summer Research and Writing Grant
-    date: 2026
-    awarder: University of Southern California
+      - USC Graduate School Summer Research and Writing Grant — University of Southern California (2026)
+      - Graduate Scholar, Society of Fellows in Humanities — Levan Institute of Humanities, USC (2025-2026)
+      - Terera Wilson Endowed Fellowship — USC (2025-2026)
+      - VSGC Summer Research Fellowship ($2000) — VSRI, USC (2025)
+      - Salz Pollak Pollak Research Fellowship ($3000) — USC (2024-2025)
+      - VSGC Summer Research Fellowship ($2000) — VSRI, USC (2024)
+      - CSLC Summer Research Fellowship ($1000) — CSLC, USC (2024)
+      - NEH/VSRI "Images out of Time" Graduate Fellow — VSRI, USC (2023-2024)
+      - USC-LACMA Summer Research Fellowship ($3000) — VSRI and CSLC, USC (2023)
+      - PhD Academy Scholarship and Research Fund ($500) — Dornsife PhD Academy, USC (2022-2023)
+      - GSG Professional Development Fund ($500) — Graduate Student Government, USC (2022-2023)
+      - Graduate Research Fellowship ($2000) — East Asian Studies, University of Toronto (2020)
+      - Center for Comparative Literature Graduate Program Award — University of Toronto (2019-2020)
+      - Writers-in-Residence Fellowship for Creative Writing — Massey College, University of Toronto (2019-2020)
+      - Undergraduate Research Fellowship ($1000) — Jackman Humanities Institute, University of Toronto (2018-2019)
 
-  - title: Graduate Scholar, Society of Fellows in Humanities
-    date: 2025-2026
-    awarder: Levan Institute of Humanities, USC
-
-  - title: Terera Wilson Endowed Fellowship
-    date: 2025-2026
-    awarder: USC
-
-  - title: VSGC Summer Research Fellowship ($2000)
-    date: 2025
-    awarder: VSRI, USC
-
-  - title: Salz Pollak Pollak Research Fellowship ($3000)
-    date: 2024-2025
-    awarder: USC
-
-  - title: VSGC Summer Research Fellowship ($2000)
-    date: 2024
-    awarder: VSRI, USC
-
-  - title: CSLC Summer Research Fellowship ($1000)
-    date: 2024
-    awarder: CSLC, USC
-
-  - title: NEH/VSRI "Images out of Time" Graduate Fellow
-    date: 2023-2024
-    awarder: VSRI, USC
-
-  - title: USC-LACMA Summer Research Fellowship ($3000)
-    date: 2023
-    awarder: VSRI and CSLC, USC
-
-  - title: PhD Academy Scholarship and Research Fund ($500)
-    date: 2022-2023
-    awarder: Dornsife PhD Academy, USC
-
-  - title: GSG Professional Development Fund ($500)
-    date: 2022-2023
-    awarder: Graduate Student Government, USC
-
-  - title: Graduate Research Fellowship ($2000)
-    date: 2020
-    awarder: East Asian Studies, University of Toronto
-
-  - title: Center for Comparative Literature Graduate Program Award
-    date: 2019-2020
-    awarder: University of Toronto
-
-  - title: "Writers-in-Residence" Fellowship for Creative Writing
-    date: 2019-2020
-    awarder: Massey College, University of Toronto
-
-  - title: Undergraduate Research Fellowship ($1000)
-    date: 2018-2019
-    awarder: Jackman Humanities Institute, University of Toronto
-    
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
@@ -208,17 +164,8 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Prof. Neetu Khanna, University of Southern California
-        icon: fa-solid fa-laptop
-
-      - name: Prof. Priya Jaikumar, University of Southern California
-        icon: fa-solid fa-thumbtack
-
-      - name: Prof. Panivong Norindr, University of Southern California
-        icon: fa-solid fa-thumbtack
-
-      - name: Prof. Vanessa Schwartz, University of Southern California
-        icon: fa-solid fa-thumbtack
-
-      - name: Prof. Ronald Mendoza-de Jesús, Emory University
-        icon: fa-solid fa-thumbtack
+      - Prof. Neetu Khanna, University of Southern California — neetukha@usc.edu
+      - Prof. Priya Jaikumar, University of Southern California — pjaikumar@cinema.usc.edu
+      - Prof. Panivong Norindr, University of Southern California — norindr@college.usc.edu
+      - Prof. Vanessa Schwartz, University of Southern California — vschwart@usc.edu
+      - Prof. Ronald Mendoza-de Jesús, Emory University — rmendoz@emory.edu
