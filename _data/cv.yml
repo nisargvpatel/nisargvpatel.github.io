@@ -179,22 +179,22 @@ cv:
         end_date: 2018-01-01
 
     References:
-  - name: Professor Neetu Khanna, University of Southern California
-    icon: fa-solid fa-laptop
-    reference: nvpatel@usc.edu
+      - name: Professor Neetu Khanna, University of Southern California
+        icon: fa-solid fa-laptop
+        reference: nvpatel@usc.edu
 
-  - name: Professor Priya Jaikumar, University of Southern California
-    icon: fa-solid fa-laptop
-    reference: pjaikumar@cinema.usc.edu
+      - name: Professor Priya Jaikumar, University of Southern California
+        icon: fa-solid fa-laptop
+        reference: pjaikumar@cinema.usc.edu
 
-  - name: Professor Panivong Norindr, University of Southern California
-    icon: fa-solid fa-laptop
-    reference: norindr@college.usc.edu
+      - name: Professor Panivong Norindr, University of Southern California
+        icon: fa-solid fa-laptop
+        reference: norindr@college.usc.edu
 
-  - name: Professor Vanessa Schwartz, University of Southern California
-    icon: fa-solid fa-laptop
-    reference: vschwart@usc.edu
+      - name: Professor Vanessa Schwartz, University of Southern California
+        icon: fa-solid fa-laptop
+        reference: vschwart@usc.edu
 
-  - name: Professor Ronald Mendoza-de Jesús, Emory University
-    icon: fa-solid fa-laptop
-    reference: rmendoz@emory.edu
+      - name: Professor Ronald Mendoza-de Jesús, Emory University
+        icon: fa-solid fa-laptop
+        reference: rmendoz@emory.edu
