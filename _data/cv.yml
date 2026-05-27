@@ -79,7 +79,8 @@ cv:
         awarder: Birla Vishwakarma Mahavidyalaya
         
     Fellowships:
-      - label: USC Graduate School Summer Research and Writing Grant, USC 
+      - label: USC Graduate School Summer Research and Writing Grant, USC
+        details: USC
 
       - label: Graduate Scholar, Society of Fellows in Humanities, Levan Institute of Humanities, USC 
 
@@ -181,7 +182,7 @@ cv:
     References:
       - name: Professor Neetu Khanna, University of Southern California
         icon: fa-solid fa-laptop
-        reference: nvpatel@usc.edu
+        reference: neetukha@usc.edu
 
       - name: Professor Priya Jaikumar, University of Southern California
         icon: fa-solid fa-laptop
