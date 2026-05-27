@@ -77,67 +77,79 @@ cv:
           - "Birla Vishwakarma Mahavidyalaya"
         date: 2016
         awarder: Birla Vishwakarma Mahavidyalaya
-
+        
     Fellowships:
-      - name: USC Graduate School Summer Research and Writing Grant
-        date: 2026
-        location: University of Southern California
-
-      - name: Graduate Scholar, Society of Fellows in Humanities
-        date: 2025-2026
-        location: Levan Institute of Humanities, USC
-
-      - name: Terera Wilson Endowed Fellowship
-        date: 2025-2026
-        location: USC
-
-      - name: VSGC Summer Research Fellowship ($2000)
+      - title: VSGC Summer Research Fellowship ($2000)
+        authors:
+          - "VSRI, USC"
         date: 2025
-        location: VSRI, USC
+        awarder: VSRI, USC
 
-      - name: Salz Pollak Pollak Research Fellowship ($3000)
+      - title: Salz Pollak Pollak Research Fellowship ($3000)
+        authors:
+          - "USC"
         date: 2024-2025
-        location: USC
+        awarder: USC
 
-      - name: VSGC Summer Research Fellowship ($2000)
+      - title: VSGC Summer Research Fellowship ($2000)
+        authors:
+          - "VSRI, USC"
         date: 2024
-        location: VSRI, USC
+        awarder: VSRI, USC
 
-      - name: CSLC Summer Research Fellowship ($1000)
+      - title: CSLC Summer Research Fellowship ($1000)
+        authors:
+          - "CSLC, USC"
         date: 2024
-        location: CSLC, USC
+        awarder: CSLC, USC
 
-      - name: NEH/VSRI "Images out of Time" Graduate Fellow
+      - title: NEH/VSRI "Images out of Time" Graduate Fellow
+        authors:
+          - "VSRI, USC"
         date: 2023-2024
-        location: VSRI, USC
+        awarder: VSRI, USC
 
-      - name: USC-LACMA Summer Research Fellowship ($3000)
+      - title: USC-LACMA Summer Research Fellowship ($3000)
+        authors:
+          - "VSRI and CSLC, USC"
         date: 2023
-        location: VSRI and CSLC, USC
+        awarder: VSRI and CSLC, USC
 
-      - name: PhD Academy Scholarship and Research Fund ($500)
+      - title: PhD Academy Scholarship and Research Fund ($500)
+        authors:
+          - "Dornsife PhD Academy, USC"
         date: 2022-2023
-        location: Dornsife PhD Academy, USC
+        awarder: Dornsife PhD Academy, USC
 
-      - name: GSG Professional Development Fund ($500)
+      - title: GSG Professional Development Fund ($500)
+        authors:
+          - "Graduate Student Government, USC"
         date: 2022-2023
-        location: Graduate Student Government, USC
+        awarder: Graduate Student Government, USC
 
-      - name: Graduate Research Fellowship ($2000)
+      - title: Graduate Research Fellowship ($2000)
+        authors:
+          - "East Asian Studies, University of Toronto"
         date: 2020
-        location: East Asian Studies, University of Toronto
+        awarder: East Asian Studies, University of Toronto
 
-      - name: Center for Comparative Literature Graduate Program Award
+      - title: Center for Comparative Literature Graduate Program Award
+        authors:
+          - "University of Toronto"
         date: 2019-2020
-        location: University of Toronto
+        awarder: University of Toronto
 
-      - name: Writers-in-Residence Fellowship for Creative Writing
+      - title: "Writers-in-Residence" Fellowship for Creative Writing
+        authors:
+          - "Massey College, University of Toronto"
         date: 2019-2020
-        location: Massey College, University of Toronto
+        awarder: Massey College, University of Toronto
 
-      - name: Undergraduate Research Fellowship ($1000)
+      - title: Undergraduate Research Fellowship ($1000)
+        authors:
+          - "Jackman Humanities Institute, University of Toronto"
         date: 2018-2019
-        location: Jackman Humanities Institute, University of Toronto
+        awarder: Jackman Humanities Institute, University of Toronto
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
