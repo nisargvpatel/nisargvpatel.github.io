@@ -2,7 +2,7 @@
 layout: page
 title: Theory Today 
 description: Working Group [est. 2024]
-img: assets/img/12.jpg
+img: assets/img/ttphoto.PNG
 importance: 1
 category: work
 related_publications: true
