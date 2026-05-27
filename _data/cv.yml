@@ -80,79 +80,40 @@ cv:
 
     Fellowships:
       - label: VSGC Summer Research Fellowship
-      - details: VSRI, USC
-    # Fellowships:
-    #   - title: VSGC Summer Research Fellowship ($2000)
-    #     authors:
-    #       - "VSRI, USC"
-    #     date: 2025
-    #     awarder: VSRI, USC
+        details: VSRI, USC ($2000)
 
-    #   - title: Salz Pollak Pollak Research Fellowship ($3000)
-    #     authors:
-    #       - "USC"
-    #     date: 2024-2025
-    #     awarder: USC
+      - label: Salz Pollak Pollak Research Fellowship
+        details: USC ($3000)
 
-    #   - title: VSGC Summer Research Fellowship ($2000)
-    #     authors:
-    #       - "VSRI, USC"
-    #     date: 2024
-    #     awarder: VSRI, USC
+      - label: VSGC Summer Research Fellowship
+        details: VSRI, USC ($2000)
 
-    #   - title: CSLC Summer Research Fellowship ($1000)
-    #     authors:
-    #       - "CSLC, USC"
-    #     date: 2024
-    #     awarder: CSLC, USC
+      - label: CSLC Summer Research Fellowship
+        details: CSLC, USC ($1000)
 
-    #   - title: NEH/VSRI "Images out of Time" Graduate Fellow
-    #     authors:
-    #       - "VSRI, USC"
-    #     date: 2023-2024
-    #     awarder: VSRI, USC
+      - label: NEH/VSRI "Images out of Time" Graduate Fellow
+        details: VSRI, USC
 
-    #   - title: USC-LACMA Summer Research Fellowship ($3000)
-    #     authors:
-    #       - "VSRI and CSLC, USC"
-    #     date: 2023
-    #     awarder: VSRI and CSLC, USC
+      - label: USC-LACMA Summer Research Fellowship
+        details: VSRI and CSLC, USC ($3000)
 
-    #   - title: PhD Academy Scholarship and Research Fund ($500)
-    #     authors:
-    #       - "Dornsife PhD Academy, USC"
-    #     date: 2022-2023
-    #     awarder: Dornsife PhD Academy, USC
+      - label: PhD Academy Scholarship and Research Fund
+        details: Dornsife PhD Academy, USC ($500)
 
-    #   - title: GSG Professional Development Fund ($500)
-    #     authors:
-    #       - "Graduate Student Government, USC"
-    #     date: 2022-2023
-    #     awarder: Graduate Student Government, USC
+      - label: GSG Professional Development Fund
+        details: Graduate Student Government, USC ($500)
 
-    #   - title: Graduate Research Fellowship ($2000)
-    #     authors:
-    #       - "East Asian Studies, University of Toronto"
-    #     date: 2020
-    #     awarder: East Asian Studies, University of Toronto
+      - label: Graduate Research Fellowship
+        details: East Asian Studies, University of Toronto ($2000)
 
-    #   - title: Center for Comparative Literature Graduate Program Award
-    #     authors:
-    #       - "University of Toronto"
-    #     date: 2019-2020
-    #     awarder: University of Toronto
+      - label: Center for Comparative Literature Graduate Program Award
+        details: University of Toronto
 
-    #   - title: Writers-in-Residence Fellowship for Creative Writing
-    #     authors:
-    #       - "Massey College, University of Toronto"
-    #     date: 2019-2020
-    #     awarder: Massey College, University of Toronto
+      - label: "Writers-in-Residence" Fellowship for Creative Writing
+        details: Massey College, University of Toronto
 
-    #   - title: Undergraduate Research Fellowship ($1000)
-    #     authors:
-    #       - "Jackman Humanities Institute, University of Toronto"
-    #     date: 2018-2019
-    #     awarder: Jackman Humanities Institute, University of Toronto
+      - label: Undergraduate Research Fellowship
+        details: Jackman Humanities Institute, University of Toronto ($1000)
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -223,18 +184,17 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor Neetu Khanna, University of Southern California
-        icon: fa-solid fa-laptop
+      - label: Professor Neetu Khanna, University of Southern California
+        details: nvpatel@usc.edu
 
-      - name: Professor Priya Jaikumar, University of Southern California
-        icon: fa-solid fa-laptop
-      
-      - name: Professor Panivong Norindr, University of Southern California
-        icon: fa-solid fa-laptop
-      
-      - name: Professor Vanessa Schwartz, University of Southern California
-        icon: fa-solid fa-laptop
-       
-      - name: Professor Ronald Mendoza-de Jesús, Emory University 
-        icon: fa-solid fa-laptop
-      
+      - label: Professor Priya Jaikumar, University of Southern California
+        details: pjaikumar@cinema.usc.edu
+
+      - label: Professor Panivong Norindr, University of Southern California
+        details: norindr@college.usc.edu
+
+      - label: Professor Vanessa Schwartz, University of Southern California
+        details: vschwart@usc.edu
+
+      - label: Professor Ronald Mendoza-de Jesús, Emory University
+        details: rmendoz@emory.edu
