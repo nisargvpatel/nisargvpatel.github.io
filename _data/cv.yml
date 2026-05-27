@@ -77,79 +77,82 @@ cv:
           - "Birla Vishwakarma Mahavidyalaya"
         date: 2016
         awarder: Birla Vishwakarma Mahavidyalaya
-        
+
     Fellowships:
-      - title: VSGC Summer Research Fellowship ($2000)
-        authors:
-          - "VSRI, USC"
-        date: 2025
-        awarder: VSRI, USC
+      - label: VSGC Summer Research Fellowship
+      - details: VSRI, USC
+    # Fellowships:
+    #   - title: VSGC Summer Research Fellowship ($2000)
+    #     authors:
+    #       - "VSRI, USC"
+    #     date: 2025
+    #     awarder: VSRI, USC
 
-      - title: Salz Pollak Pollak Research Fellowship ($3000)
-        authors:
-          - "USC"
-        date: 2024-2025
-        awarder: USC
+    #   - title: Salz Pollak Pollak Research Fellowship ($3000)
+    #     authors:
+    #       - "USC"
+    #     date: 2024-2025
+    #     awarder: USC
 
-      - title: VSGC Summer Research Fellowship ($2000)
-        authors:
-          - "VSRI, USC"
-        date: 2024
-        awarder: VSRI, USC
+    #   - title: VSGC Summer Research Fellowship ($2000)
+    #     authors:
+    #       - "VSRI, USC"
+    #     date: 2024
+    #     awarder: VSRI, USC
 
-      - title: CSLC Summer Research Fellowship ($1000)
-        authors:
-          - "CSLC, USC"
-        date: 2024
-        awarder: CSLC, USC
+    #   - title: CSLC Summer Research Fellowship ($1000)
+    #     authors:
+    #       - "CSLC, USC"
+    #     date: 2024
+    #     awarder: CSLC, USC
 
-      - title: NEH/VSRI "Images out of Time" Graduate Fellow
-        authors:
-          - "VSRI, USC"
-        date: 2023-2024
-        awarder: VSRI, USC
+    #   - title: NEH/VSRI "Images out of Time" Graduate Fellow
+    #     authors:
+    #       - "VSRI, USC"
+    #     date: 2023-2024
+    #     awarder: VSRI, USC
 
-      - title: USC-LACMA Summer Research Fellowship ($3000)
-        authors:
-          - "VSRI and CSLC, USC"
-        date: 2023
-        awarder: VSRI and CSLC, USC
+    #   - title: USC-LACMA Summer Research Fellowship ($3000)
+    #     authors:
+    #       - "VSRI and CSLC, USC"
+    #     date: 2023
+    #     awarder: VSRI and CSLC, USC
 
-      - title: PhD Academy Scholarship and Research Fund ($500)
-        authors:
-          - "Dornsife PhD Academy, USC"
-        date: 2022-2023
-        awarder: Dornsife PhD Academy, USC
+    #   - title: PhD Academy Scholarship and Research Fund ($500)
+    #     authors:
+    #       - "Dornsife PhD Academy, USC"
+    #     date: 2022-2023
+    #     awarder: Dornsife PhD Academy, USC
 
-      - title: GSG Professional Development Fund ($500)
-        authors:
-          - "Graduate Student Government, USC"
-        date: 2022-2023
-        awarder: Graduate Student Government, USC
+    #   - title: GSG Professional Development Fund ($500)
+    #     authors:
+    #       - "Graduate Student Government, USC"
+    #     date: 2022-2023
+    #     awarder: Graduate Student Government, USC
 
-      - title: Graduate Research Fellowship ($2000)
-        authors:
-          - "East Asian Studies, University of Toronto"
-        date: 2020
-        awarder: East Asian Studies, University of Toronto
+    #   - title: Graduate Research Fellowship ($2000)
+    #     authors:
+    #       - "East Asian Studies, University of Toronto"
+    #     date: 2020
+    #     awarder: East Asian Studies, University of Toronto
 
-      - title: Center for Comparative Literature Graduate Program Award
-        authors:
-          - "University of Toronto"
-        date: 2019-2020
-        awarder: University of Toronto
+    #   - title: Center for Comparative Literature Graduate Program Award
+    #     authors:
+    #       - "University of Toronto"
+    #     date: 2019-2020
+    #     awarder: University of Toronto
 
-      - title: Writers-in-Residence Fellowship for Creative Writing
-        authors:
-          - "Massey College, University of Toronto"
-        date: 2019-2020
-        awarder: Massey College, University of Toronto
+    #   - title: Writers-in-Residence Fellowship for Creative Writing
+    #     authors:
+    #       - "Massey College, University of Toronto"
+    #     date: 2019-2020
+    #     awarder: Massey College, University of Toronto
 
-      - title: Undergraduate Research Fellowship ($1000)
-        authors:
-          - "Jackman Humanities Institute, University of Toronto"
-        date: 2018-2019
-        awarder: Jackman Humanities Institute, University of Toronto
+    #   - title: Undergraduate Research Fellowship ($1000)
+    #     authors:
+    #       - "Jackman Humanities Institute, University of Toronto"
+    #     date: 2018-2019
+    #     awarder: Jackman Humanities Institute, University of Toronto
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
