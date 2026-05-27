@@ -79,36 +79,50 @@ cv:
         awarder: Birla Vishwakarma Mahavidyalaya
         
     Fellowships:
-      - label: USC Graduate School Summer Research and Writing Grant, USC
-        details: USC
+      - label: Graduate School Summer Research and Writing Grant
+        details: USC, 2026 Summer
 
-      - label: Graduate Scholar, Society of Fellows in Humanities, Levan Institute of Humanities, USC 
+      - label: Graduate Scholar, Society of Fellows in Humanities 
+        details: Levan Institute of Humanities, USC, 2025-2026
 
-      - label: Teresa Wilson Endowed Fellowship, USC 
+      - label: Teresa Wilson Endowed Fellowship
+        details: USC, 2025-2026
 
-      - label: VSGC Summer Research Fellowship, VSRI, USC 
+      - label: VSGC Summer Research Fellowship
+        details: VSRI, USC, 2025 Summer 
 
-      - label: Salz Pollak Pollak Research Fellowship, USC
+      - label: Salz Pollak Pollak Research Fellowship
+        details: USC, 2024-2025
 
-      - label: VSGC Summer Research Fellowship, VSRI, USC 
+      - label: VSGC Summer Research Fellowship
+        details: VSRI, USC, 2024 Summer
 
-      - label: CSLC Summer Research Fellowship, CSLC, USC 
+      - label: CSLC Summer Research Fellowship, 
+        details: CSLC, USC, 2024 Summer 
 
-      - label: NEH/VSRI "Images out of Time" Graduate Fellow, VSRI, USC
+      - label: NEH/VSRI Images out of Time Graduate Fellow 
+        details: VSRI, USC, 2023-2024
 
-      - label: USC-LACMA Summer Research Fellowship, VSRI and CSLC, USC 
+      - label: USC-LACMA Summer Research Fellowship, 
+        details: VSRI and CSLC, USC, 2023 Summer 
 
-      - label: PhD Academy Scholarship and Research Fund, Dornsife PhD Academy, USC 
+      - label: PhD Academy Scholarship and Research Fund, 
+        details: Dornsife PhD Academy, USC, 2022-2026 
 
-      - label: GSG Professional Development Fund, Graduate Student Government, USC 
+      - label: GSG Professional Development Fund, 
+        details: Graduate Student Government, USC, 2022-2026 
 
-      - label: Graduate Research Fellowship, East Asian Studies, University of Toronto
+      - label: Graduate Research Fellowship, 
+        details: East Asian Studies, University of Toronto, 2020
 
-      - label: Center for Comparative Literature Graduate Program Award, University of Toronto
+      - label: Center for Comparative Literature Graduate Program Award, 
+        details: University of Toronto, 2019-2020
 
-      - label: Writers-in-Residence Fellowship for Creative Writing, Massey College, University of Toronto
+      - label: Writers-in-Residence Fellowship for Creative Writing, 
+        details: Massey College, University of Toronto, 2019-2020
 
-      - label: Undergraduate Research Fellowship, Jackman Humanities Institute, University of Toronto 
+      - label: Undergraduate Research Fellowship, 
+        details: Jackman Humanities Institute, University of Toronto, 2018-2019 
 
 
     Publications:
