@@ -77,13 +77,38 @@ cv:
           - "Birla Vishwakarma Mahavidyalaya"
         date: 2016
         awarder: Birla Vishwakarma Mahavidyalaya
-
+        
     Fellowships:
-  - label: VSGC Summer Research Fellowship
-    details: VSRI, USC
+      - label: USC Graduate School Summer Research and Writing Grant, USC 
 
-  - label: Salz Pollak Pollak Research Fellowship
-    details: USC
+      - label: Graduate Scholar, Society of Fellows in Humanities, Levan Institute of Humanities, USC 
+
+      - label: Teresa Wilson Endowed Fellowship, USC 
+
+      - label: VSGC Summer Research Fellowship, VSRI, USC 
+
+      - label: Salz Pollak Pollak Research Fellowship, USC
+
+      - label: VSGC Summer Research Fellowship, VSRI, USC 
+
+      - label: CSLC Summer Research Fellowship, CSLC, USC 
+
+      - label: NEH/VSRI "Images out of Time" Graduate Fellow, VSRI, USC
+
+      - label: USC-LACMA Summer Research Fellowship, VSRI and CSLC, USC 
+
+      - label: PhD Academy Scholarship and Research Fund, Dornsife PhD Academy, USC 
+
+      - label: GSG Professional Development Fund, Graduate Student Government, USC 
+
+      - label: Graduate Research Fellowship, East Asian Studies, University of Toronto
+
+      - label: Center for Comparative Literature Graduate Program Award, University of Toronto
+
+      - label: "Writers-in-Residence" Fellowship for Creative Writing, Massey College, University of Toronto
+
+      - label: Undergraduate Research Fellowship, Jackman Humanities Institute, University of Toronto 
+
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
