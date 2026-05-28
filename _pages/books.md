@@ -6,7 +6,7 @@ nav: false
 collection: books
 ---
 
-## Adventures in Reading     
+##      
 <div class="goodreads-widget">
 
   <style type="text/css" media="screen">
@@ -64,19 +64,20 @@ collection: books
     }
   </style>
 
-  <div id="gr_grid_widget_1779928132">
+  <div id="gr_grid_widget_1779928660">
+
     <h2>
       <a
         style="text-decoration: none;"
         rel="nofollow"
         href="https://www.goodreads.com/review/list/23788432-reader?shelf=read&utm_medium=api&utm_source=grid_widget"
       >
-        reader's bookshelf: read
+        Recently Read
       </a>
     </h2>
 
     <div class="gr_grid_container">
-      <!-- Goodreads JS will populate books here -->
+      <!-- Goodreads JS populates books automatically -->
     </div>
 
     <br style="clear: both" />
@@ -94,10 +95,11 @@ collection: books
       Share <a rel="nofollow" href="/">book reviews</a> and ratings with reader,
       and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.
     </noscript>
+
   </div>
 
   <script
-    src="https://www.goodreads.com/review/grid_widget/23788432.reader's%20bookshelf:%20read?cover_size=medium&hide_link=&hide_title=&num_books=200&order=d&shelf=read&sort=date_added&widget_id=1779928132"
+    src="https://www.goodreads.com/review/grid_widget/23788432.Recently%20Read?cover_size=medium&hide_link=&hide_title=&num_books=200&order=d&shelf=read&sort=date_added&widget_id=1779928660"
     type="text/javascript"
     charset="utf-8"
   ></script>
