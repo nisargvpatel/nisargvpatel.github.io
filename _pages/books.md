@@ -6,7 +6,7 @@ nav: false
 collection: books
 ---
 
-##      
+      
 <div class="goodreads-widget">
 
   <style type="text/css" media="screen">
