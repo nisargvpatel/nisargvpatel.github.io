@@ -5,7 +5,7 @@ description: Working Group [est. 2024]
 img: assets/img/ttphoto.PNG
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ‘Theory Today: Between Past and Present’ working group aims primarily to read and discuss the diverse range of trends within contemporary theory. From Psychoanalysis to contemporary interventions within Marxism, Postcolonial thought, Media Theory, and Gender and Sexuality studies, this group engages with recently published monographs and essays from various fields and backgrounds actively shaping the contemporary theoretical discourse. For the latest updates on our book discussions, workshops, and lecture-series, [please visit our Google Doc. page](https://docs.google.com/document/d/1VPnxckIYXUMrJ3HbEuRiDQhAlfnqRmf3/edit)
