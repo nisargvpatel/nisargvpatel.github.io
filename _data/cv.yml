@@ -194,13 +194,10 @@ cv:
 
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: [Theory Today](https://nisargvpatel.github.io/projects/1_project/)
+        summary: ‘Theory Today’ working group aims primarily to read and discuss the diverse range of trends within contemporary theory. From Psychoanalysis to contemporary interventions within Marxism, Postcolonial thought, Media Theory, and Gender and Sexuality studies, this group engages with recently published monographs and essays from various fields and backgrounds that are actively shaping contemporary theoretical discourse.
+        start_date: 2024
+#       end_date: 2018-01-01
 
     References:
       - name: Professor Neetu Khanna, University of Southern California
