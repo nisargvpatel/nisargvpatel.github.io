@@ -37,6 +37,22 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tttoscano.png" title="Theory Today Year 2 Workshop with Alberto Toscano" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ttzupancic.png" title="Theory Today Year 2 with Alenka Zupancic" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ttmcgowan.png" title="Theory Today Year 2 with Todd McGowan" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+</div>
+<div class="caption">
+    Posters for the 'Theory Today' Workshops, Seminars, and Keynote Lectures for 2025-2026
+</div>    
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tt1fall.png" title="Theory Today Year 1 Fall" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
