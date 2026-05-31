@@ -164,9 +164,9 @@ cv:
         summary: Fluent
 
     Interests:
-      - name: Physics
+      - name: Fields  
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "19th and 20th cent. India, Post-colonial Theory, Continental Philosophy, Visual Studies, Psychoanalysis, and Indian Literature."
 
     Certificates:
       - name: Machine Learning
