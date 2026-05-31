@@ -169,20 +169,26 @@ cv:
         keywords: "19th and 20th cent. India, Post-colonial Theory, Continental Philosophy, Visual Studies, Psychoanalysis, and Indian Literature."
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Certificate in Communication, Leadership, and Management
+        date: 2025 
+        issuer: Ph.D. Academy, USC
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Visual Studies Graduate Certificate
+        date: 2024
+        issuer: Visual Studies Research Institute, USC
+        icon: fa-solid fa-tag
+
+      - name: Center for Excellence in Teaching Certificate
+        date: 2024
+        issuer: USC
+        icon: fa-solid fa-tag
+
+      - name: Digital Media and Culture Graduate Certificate
+        date: 2023
+        issuer: USC
+        icon: fa-solid fa-tag
+
 
     Projects:
       - name: Quantum Computing
