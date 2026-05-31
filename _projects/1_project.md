@@ -30,6 +30,11 @@ related_publications: true
         {% include figure.liquid loading="eager" path="assets/img/tt2spring.png" title="Theory Today Year 2 Spring" class="img-fluid rounded z-depth-1" %}
     </div>
 
+</div>
+<div class="caption">
+    Posters for the 'Theory Today' monthly reading schedule for 2025-2026
+</div>    
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tt1fall.png" title="Theory Today Year 1 Fall" class="img-fluid rounded z-depth-1" %}
@@ -37,6 +42,12 @@ related_publications: true
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ttyear1spring.png" title="Theory Today Year 1 Spring" class="img-fluid rounded z-depth-1" %}
     </div>
+
+</div>
+<div class="caption">
+    Posters for the 'Theory Today' monthly reading schedule for 2024-2025
+</div>    
+
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
