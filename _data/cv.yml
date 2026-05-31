@@ -156,19 +156,15 @@ cv:
     Teaching Experience:
       - name: On Location, The Place of Literature in Global Culture
         level: 2023-2024
-        icon: fa-solid fa-hashtag
 
       - name: Introduciton to Sociology
         level: 2023-2024
-        icon: fa-solid fa-hashtag
 
       - name: On Location, The Place of Literature in Global Culture
         level: 2022-2023
-        icon: fa-solid fa-hashtag
 
       - name: Cultures of Latin America
-        level: 2022-2023
-        icon: fa-solid fa-hashtag     
+        level: 2022-2023    
 
     Languages:
       - name: Hindi
