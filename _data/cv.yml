@@ -157,20 +157,18 @@ cv:
       - name: On Location, The Place of Literature in Global Culture
         level: 2023-2024
         icon: fa-solid fa-hashtag
-#       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
       - name: Introduciton to Sociology
         level: 2023-2024
         icon: fa-solid fa-hashtag
-#       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
       - name: On Location, The Place of Literature in Global Culture
         level: 2022-2023
         icon: fa-solid fa-hashtag
-#       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
       - name: Cultures of Latin America
         level: 2022-2023
-        icon: fa-solid fa-hashtag
-#       keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        icon: fa-solid fa-hashtag     
 
     Languages:
       - name: Hindi
