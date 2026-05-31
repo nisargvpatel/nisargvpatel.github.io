@@ -29,7 +29,10 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/ttbrinkema.png" title="Theory Today Year 3 Workshop with Eugenie Brinkema" class="img-fluid rounded z-depth-1" %}        
     </div>
     </div>
-    
+</div>
+<div class="caption">
+    'Theory Today' Lecture Series and Workshop for 2025-2026
+</div>        
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tt2fall.png" title="Theory Today Year 2 Fall" class="img-fluid rounded z-depth-1" %}
