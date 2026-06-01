@@ -75,13 +75,13 @@ cv:
         date: 2016
         awarder: Birla Vishwakarma Mahavidyalaya
     
-    Conference Presentations:
-      - title: "To See a World in a Frame of an Image: Stereoscopes and Colonial 'Life-Worlds' [Lebenswelt] of British India"
+        Conference Presentations:
+      - title: "Writing After Amnesia: The Narratives of History between G.N. Devy and Qurratulain Hyder"
         authors:
-      - "Nisarg Patel"
+          - "Nisarg Patel"
         date: 2025-2026
-        journal: "Annual Conference on South Asia, University of Wisconsin-Madison"
-
+        journal: "ACLA Annual Conference"
+        
     Fellowships:
       - label: Graduate School Summer Research and Writing Grant
         details: USC, 2026 Summer
