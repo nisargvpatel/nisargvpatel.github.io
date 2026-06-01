@@ -191,17 +191,17 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Teaching Experience:
-      - name: On Location, The Place of Literature in Global Culture
-        level: 2023-2024
+      - label: On Location, The Place of Literature in Global Culture
+        details: 2023-2024
         
-      - name: Introduction to Sociology
-        level: 2023-2024
+      - label: Introduction to Sociology
+        details: 2023-2024
         
-      - name: On Location, The Place of Literature in Global Culture
-        level: 2022-2023
+      - label: On Location, The Place of Literature in Global Culture
+        details: 2022-2023
         
-      - name: Cultures of Latin America
-        level: 2022-2023    
+      - label: Cultures of Latin America
+        details: 2022-2023    
 
     Languages:
       - name: Hindi
