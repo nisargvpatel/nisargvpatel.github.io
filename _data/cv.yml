@@ -76,11 +76,8 @@ cv:
         awarder: Birla Vishwakarma Mahavidyalaya
     
     Conference Presentations:
-      - title: "Writing After Amnesia: The Narratives of History between G.N. Devy and Qurratulain Hyder"
-        authors:
-          - "Nisarg Patel"
-        date: 2025-2026
-        journal: "ACLA Annual Conference"
+      - label: Writing After Amnesia: The Narratives of History between G.N. Devy and Qurratulain Hyder
+        details: ACLA Annual Conference, 2025-2026
         
     Fellowships:
       - label: Graduate School Summer Research and Writing Grant
