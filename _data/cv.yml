@@ -166,11 +166,11 @@ cv:
         details: Jackman Humanities Institute, University of Toronto, 2018-2019 
   
     Writings:
-      - title: Ancient Myths, Modern Markets
+      - title: "Ancient Myths, Modern Markets"
         authors:
           - Nisarg Patel
-        publisher: Mid-Theory Collective
-        releaseDate: 2026
+        publisher: "Mid-Theory Collective (Online)"
+        releaseDate: "2026"
         url: https://github.com/nisargvpatel/nisargvpatel.github.io/blob/main/assets/pdf/Ancient%20Myths%2C%20Modern%20Markets.pdf
 
       - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
