@@ -301,6 +301,16 @@ cv:
         issuer: USC
         icon: fa-solid
 
+    Professional Membership:
+      - label: "American Comparative Literature Association."
+        details: Member since 2023
+        
+      - label: "Society for Cinema and Media Studies"
+        details: Member since 2023
+
+      - label: "Modern Language Association."
+        details: Member since 2024
+
 
     Projects:
       - name: Theory Today
