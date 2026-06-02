@@ -5,10 +5,11 @@ title: teaching
 description: Course materials, schedules, and resources for past and future seminars
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-
-# {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% comment %}
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% endcomment %}
 
 {% include courses.liquid %}
