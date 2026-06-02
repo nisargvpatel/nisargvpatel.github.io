@@ -1,97 +1,88 @@
+```yaml
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+
+title: "नज़र ना लगे [Nazar na Lage]: An Introduction to the History of Visual Cultures of India"
+
+description: |
+  An introduction to the visual cultures of India from the eighteenth century to the present, examining painting, photography, cinema, and visual media through the lenses of history, colonialism, nationalism, and visual theory.
+
+instructor: Nisarg Patel
+
+year: Future Course
+
+term: TBA
+
+location: TBA
+
+time: TBA
+
+course_id: visual-cultures-india
+
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
+    topic: "Visual Studies in South Asia: An Introduction"
     materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Mapping Visual Cultures in South Asia"
+      - name: "Vernacular Visual: Seeing in South Asia"
 
   - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
+    topic: "Before the British: Paintings in Mughal India"
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Act of Viewing: Looking at Paintings in the Indian Context"
+      - name: "The Visual World of Muslim India"
 
   - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+    topic: "Princes, Painters, and their Paintings"
 
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+    topic: "On the Verge of an(other) Empire: Trajectories and Connections"
 
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+    topic: "Enter the Englishmen: Introduction of/to Photo-Images in Colonial India"
 
   - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+    topic: "Colonial Images as Means of Knowledge"
+
+  - week: 7
+    topic: "Colonial Images as Tool of Power"
+
+  - week: 8
+    topic: "Colonial Images as Language of Representation"
+
+  - week: 9
+    topic: "Colonial Images as Site of Imagination"
+
+  - week: 10
+    topic: "Empire's Ending(s): Towards New World, Towards Moving Images"
+
+  - week: 11
+    topic: "Exit Empire: Moving Images in World of Transition(s)"
+
+  - week: 12
+    topic: "Young Nation, Old Images: TV Serials and Popular (Re-)Publics"
+
+  - week: 13
+    topic: "Visual Cultures of the 21st Century: Publics, Production, and Crisis"
 ---
 
-## Course Overview
+## Course Description
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+How does the visual make us think, re-think, conceive, and re-conceive the way we understand the history of a culture? Do paintings, photographs, films, and other visual materials compel us to rethink history itself, or should they simply be treated as objects within history?
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+This course surveys the visual cultures of the Indian subcontinent from the eighteenth through the twenty-first centuries. Through paintings of Mughal India, colonial photography, and postcolonial cinema, students will explore how visual media shape historical understanding and how historical narratives are transformed through visual representation.
 
-## Prerequisites
+## Assignments
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- Active Participation — 15%
+- Weekly Discussion Posts — 15%
+- Midterm Paper — 25%
+- Final Exam — 25%
+- Discussion Sessions — 20%
 
-## Textbooks
+## Course Materials
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+A complete syllabus PDF is available below:
 
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- [Course Syllabus](assets/pdf/undergrad_visualculture_syllabus.pdf)
+```
