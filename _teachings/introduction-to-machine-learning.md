@@ -53,4 +53,3 @@ Students will explore how visual objects shape historical understanding and ask 
 12. Images in Public Cultures II: Cartoons and Caricatures
 13. Images in Public Cultures III: Nationalism and Resistance
 14. Moving Images of Colonial India
-```
