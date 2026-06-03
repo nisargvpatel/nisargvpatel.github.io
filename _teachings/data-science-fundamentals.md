@@ -3,7 +3,7 @@ layout: course
 title: "नज़र ना लगे [Nazar na Lage]: An Introduction to the History of Visual Cultures of India"
 description: "An introductory course on the visual cultures of India from the eighteenth to the twenty-first centuries."
 instructor: Nisarg Patel
-year: Future Undergraduate Course
+year: "Future Undergraduate Course (Visual Culture)"
 term: TBA
 location: TBA
 time: TBA
