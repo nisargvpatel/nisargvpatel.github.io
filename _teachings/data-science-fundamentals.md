@@ -16,7 +16,7 @@ This course examines visual culture in the Indian subcontinent from the eighteen
 
 ## Syllabus
 
-[Download the syllabus](assets/pdf/undergrad_visualculture_syllabus.pdf)
+[Full Syllabus](https://drive.google.com/file/d/170lahcbPybZdmRw1RqaXG9DxOWSf5A84/view?usp=sharing)
 
 ## Topics
 
