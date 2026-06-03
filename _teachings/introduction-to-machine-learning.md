@@ -1,113 +1,56 @@
 ---
 layout: course
-title: Introduction to Machine Learning
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
-year: 2023
+title: "Images of Empire, Empire of Images: A Visual History of the British Colonization in India"
+description: "A seminar on photography, visual culture, and colonial history in British India."
+instructor: Nisarg Patel
+year: 2026
 term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
-schedule:
-  - week: 1
-    date: Sept 5
-    topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 2
-    date: Sept 12
-    topic: Linear Regression
-    description: Introduction to linear regression, gradient descent, and model evaluation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 3
-    date: Sept 19
-    topic: Classification
-    description: Logistic regression, decision boundaries, and multi-class classification.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
-  - week: 4
-    date: Sept 26
-    topic: Decision Trees and Random Forests
-    description: Tree-based methods, ensemble learning, and feature importance.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 5
-    date: Oct 3
-    topic: Support Vector Machines
-    description: Margin maximization, kernel methods, and support vectors.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 6
-    date: Oct 10
-    topic: Midterm Exam
-    description: Covers weeks 1-5.
-
-  - week: 7
-    date: Oct 17
-    topic: Neural Networks Fundamentals
-    description: Perceptrons, multilayer networks, and backpropagation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 8
-    date: Oct 24
-    topic: Deep Learning
-    description: Convolutional neural networks, recurrent neural networks, and applications.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+location: TBA
+time: TBA
+course_id: images-of-empire
 ---
 
-## Course Overview
+## Course Description
 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+This seminar examines the history and historiography of colonial India through visual culture. Beginning with the introduction of photography into British India and moving through anthropology, administration, travel, advertising, nationalism, and cinema, the course investigates how images participated in the production of colonial knowledge and power.
 
-- Understand key machine learning paradigms and concepts
-- Implement basic machine learning algorithms
-- Evaluate and compare model performance
-- Apply machine learning techniques to real-world problems
+Students will explore how visual objects shape historical understanding and ask whether images reveal dimensions of the colonial past that textual archives alone cannot capture.
 
-## Prerequisites
+## Assignments
 
-- Basic knowledge of linear algebra and calculus
-- Programming experience in Python
-- Probability and statistics fundamentals
+- In-Class Presentation — 15%
+- Book Review — 15%
+- Weekly Discussion Posts — 20%
+- Final Assignment — 50%
 
-## Textbooks
+## Course Themes
 
-- Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
-- Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
+- Photography in Colonial India
+- Visual Culture and Empire
+- Anthropology, Caste, and Representation
+- Colonial Administration and Policing
+- Advertising and Public Culture
+- Cartoons, Caricatures, and Nationalism
+- Colonial Cinema and Moving Images
 
-## Grading
+## Syllabus
 
-- Assignments: 40%
-- Midterm Exam: 20%
-- Final Project: 30%
-- Participation: 10%
+[Full Syllabus](https://drive.google.com/file/d/1WSjzM6soiiBQmw7Nny9JuOMFw-bXgG4a/view?usp=sharing)
+
+## Weekly Topics
+
+1. South Asia and its Visual Cultures
+2. Photography in Colonial India
+3. Colonial India in Photography
+4. Images of Colonial Representation I: People
+5. Images of Colonial Representation II: Spectacles
+6. Images of Colonial Representation III: Bodies
+7. Space of Empire I: Geography
+8. Space of Empire II: Travel
+9. Space of Empire III: Domestic Life
+10. Space of Empire IV: Colonial Administration
+11. Images in Public Cultures I: Advertisements
+12. Images in Public Cultures II: Cartoons and Caricatures
+13. Images in Public Cultures III: Nationalism and Resistance
+14. Moving Images of Colonial India
+```
