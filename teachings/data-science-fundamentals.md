@@ -9,9 +9,9 @@ description: |
 
 instructor: Nisarg Patel
 
-year: Future Course
+year: 2026
 
-term: TBA
+term: Spring
 
 location: TBA
 
@@ -84,5 +84,5 @@ This course surveys the visual cultures of the Indian subcontinent from the eigh
 
 A complete syllabus PDF is available below:
 
-- [Course Syllabus](assets/pdf/undergrad_visualculture_syllabus.pdf)
+- [Course Syllabus](/assets/pdf/Nazar_na_Lage_Syllabus.pdf)
 ```
