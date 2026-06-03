@@ -3,7 +3,7 @@ layout: course
 title: "Images of Empire, Empire of Images: A Visual History of the British Colonization in India"
 description: "A seminar on photography, visual culture, and colonial history in British India."
 instructor: Nisarg Patel
-year: Future Course
+year: "Future Graduate Course (Visual Culture)"
 term: TBA
 location: TBA
 time: TBA
