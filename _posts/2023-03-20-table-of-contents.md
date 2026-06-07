@@ -7,9 +7,9 @@ tags: formatting toc
 categories: sample-posts
 giscus_comments: true
 related_posts: false
+published: false
 toc:
-  beginning: true
-  published: false
+  beginning: true  
 ---
 
 This post shows how to add a table of contents in the beginning of the post.
