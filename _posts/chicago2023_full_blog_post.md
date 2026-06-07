@@ -1,0 +1,127 @@
+---
+layout: post
+title: "हमारे अपनो को जगाना है: Bollywood's Pre-Colonial Narratives in the Time of Post-Colony"
+date: 2023-01-15
+description: On Bollywood, nationalism, colonial historiography, and the cinematic return of the pre-colonial past
+tags: [bollywood, india, nationalism, history, cinema]
+categories: [conference-paper]
+giscus_comments: false
+---
+
+हमारे अपनो को जगाना है। 
+
+Bollywood’s Pre-Colonial Narratives in the Time of Post-Colony
+
+“It is history. Pure history”
+
+― Leni Riefenstahl (Quoted by Sontag in Fascinating Fascism)
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide1.jpg" class="img-fluid rounded z-depth-1" %}
+
+	
+
+Within a very short span of four years from 2018 to 2022, Bollywood produced a staggering amount of six big-budget, action filled, and CGI saturated ‘historical’ movies. These were the movies that not just “looked back” to the Indian history, but in looking back, they simultaneously visualized and brought to screen what was previously limited (and mostly abandoned) to pages of history textbooks. Starting with Sanjay Leela Bhansali’s Padmavat in 2018― whose 2015 Bajirao Mastani played a crucial role in reviving this genre of Historical Drama
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide3.jpg" class="img-fluid rounded z-depth-1" %}
+
+―the film industry produced three historical movies in 2019, namely Manikarnika: The Queen of Jhansi, Panipat, and Kesari; one in 2020, Tanhaji: The Unsung Warrior; and, one in 2022, Samrat Prithviraj. This list does not even consider the films coming out of non-Hindi cinema― especially the Tamil film Industry which too witnessed a resurgence of high-budget historical blockbusters, including two big names in last year itself: S.S. Rajamouli critically acclaimed RRR and Mani Ratham’s PS-I. Nevertheless, keeping aside the Tamil cinema for the time being and coming back to Bollywood
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide7.jpg" class="img-fluid rounded z-depth-1" %}
+
+, it seemed that between 2018 and 2022, Bollywood, and with Bollywood India too, was going through its high-school history phase, where the cinema halls were turning into classrooms for lessons in Indian history with your favourite film-stars putting on costumes of long-forgotten Kings and Queens.  
+
+What is particularly interesting about the aforementioned Bollywood movies is that all of them, with the sole exception of Manikarnika, are movies which narrated and represented historical events that i) either precede the British colonization of Indian subcontinent, or, ii) narrated a story (as in case of Kesari) which, while being situated within the colonial era, nevertheless told a story which has nothing to do with British colonization. Isn’t it a bit strange that we have six big-budget star-studded Historical dramas, and only one of them explicitly engages with the history of India under the British colonial rule? It is as if the narratives which can bear the status, the sign, of ‘History,’ the narratives which are expected to carry the potential of filling up these newly found (cinematic-) classrooms of history, are precisely the narratives of pre-colonial India. 
+
+As a disclaimer, I should note here that the strangeness of this recent resurgence does not come from the mere fact of the anachronistic investments that the post-colonial Indian cinema has towards its pre-colonial past. After all, one can rightfully argue that Bollywood always had its fair share of investment in depicting pre-colonial reality
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide8.jpg" class="img-fluid rounded z-depth-1" %}
+
+― remind here yourself not only of K. Asif’s 1960 Blockbuster Mughal-e-Azami, but, also remind yourself of the founding piece of ‘Indian’ cinema itself, i.e., Dadasaheb Phalke’s Raja Harishchandra (1913).  
+
+Nevertheless, beyond this entanglement between Bollywood and Indian pre-colonial History, the aspect which particularly makes the current resurgence unlike any before is the techno-politico juncture at which these movies are seeing their resurgence
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide9.jpg" class="img-fluid rounded z-depth-1" %}
+
+. Politically, India has seen a strong resurgence of right-wing nationalism since 2014. What has happened during this last decade or so―the same time period during which Bollywood has seen a sudden resurgence of Historical Drama―is what has historically happened during reign of many right-wing governments: there has been a cultural obsession over reviving of glorious past, the forgotten Hindu ‘History,’ which the right-wing nationalist claims to have been erased form the popular memory. Technologically speaking, this same period, interestingly enough, has also been the decade of during which Bollywood finally started figuring out an effective and ‘realistic’ manner in which it could combine the VFX [virtual effects] and CGI [computer generated imaginary] for the purpose of its narrative world-building. This is all to say, the current resurgence of the pre-colonial narratives lies at a peculiar post-colonial juncture where the right-wing political imagination has met visual technologies which promises realization and visualization of its fantasies that have hitherto gone un-realized and un-visualized― and for those of us who have seen these movies, what a striking realization of phantasmatic histories this has been: Glorious shots of Royal palaces in their material abundance; scenes of Royal courts where governance is meted out with powerful rhetoric; shots of Queens in their ur-feminist confidence, and, of course, the of course, battle sequences 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide10.jpg" class="img-fluid rounded z-depth-1" %}
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide11.jpg" class="img-fluid rounded z-depth-1" %}
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide12.jpg" class="img-fluid rounded z-depth-1" %}
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide13.jpg" class="img-fluid rounded z-depth-1" %}
+
+. 
+
+Here, before we too get blinded by what in the most part is a CGI generated depiction of these aristocratic opulence, I would like to bring us back to the strange site of post-colonial forgetting within which these pre-colonial pasts are being revived and remembered. Considering that only one out of these six big-budget movies narrate the story qua history of the British empire in India, shouldn’t this strange elision make us pause and ask: what is it that this cinematic amnesia, the cultural forgetting, telling us about the status of history within the Indian subcontinent? The forgetting of the British colonial history from the cinematic screens is particularly ironic because it is done precisely in the name of remembering the true Indian history. It is Indian history, the right-wing Hindu nationalist argues, that has been erased from the memory of the general population and is in needs a revival. Or, if I am to put this in words of Amit Shah
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide14.jpg" class="img-fluid rounded z-depth-1" %}
+
+, “[T]here is a need to rewrite History from Indian’s point of view.” It is clear that Bollywood is paying heed to this broader political and cultural injunction of remembering and rewriting the history, but, it is doing it precisely by forgetting to remember the almost 200 years of colonial rule though which India passed. Considering this, and I am repeating my question here, how is one to read this symptomatic forgetting of colonial history within the space of post-colony? This question is not simply about how one is to read this post-colonial forgetting of the British colonization from the screens of Bollywood, but, at the same time, it also is the question about how Bollywood itself, with its CGI and VFX, is changing spectator’s relationship with Indian history itself.  
+
+In what remains of my presentation today, I turn to Sanjay Leela Bhansali’s Padmavaat (2019) 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide15.jpg" class="img-fluid rounded z-depth-1" %}
+
+―one of the controversial and yet hugely successful Bollywood movie as it ‘remembers’ and ‘forgets.’ My aim in reading Padmavaat is quite simple and rather straightforward: I will read Bhansali’s Padmavaat in the light of the original 16th century text which the movie claims to have been based upon. In comparing these two versions, I show how the pre-colonial version which Bhansali’s visualizes is not the 16th century rendition of the story, but rather its 19th century version that got popularized within the British (Oriental) Historiography. This colonial framing of the pre-colonial narrative will finally allow me to argue that the post-colonial perception of this pre-colonial narrative is heavily indebted and influenced by the scripts of colonial episteme―i.e., the very same episteme which the contemporary Bollywood is pretending to disavow in bringing to screen the hitherto unknows and unrepresented pre-colonial world.   
+
+Padmavaat― which Rudrani Gangopadhyay has names as the “ur-text” for the recent reviewal of Historical epic within Bollywood― tells a story of an early medieval Rajput kingdom of Rajasthan as it faces an invasion from an Afghani king ruling Delhi, Jalal-ud-din Khalji. The film, as the movie disclaimer informs us
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide16.jpg" class="img-fluid rounded z-depth-1" %}
+
+, is “inspired from the epic poem Padmavat written by Malik Muhammad Jayasi,” and is quite straightforward in terms of its narrative: A medieval Rajput kingdom, whose pride resides in the bravery of its men (including its King, Ratansen) and divinely beauty of its women (particularly of its Queen Padmavati), is threatened by an aggressive alien outsider who obsesses over political expansion and lusts over sexual conquests 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide17.jpg" class="img-fluid rounded z-depth-1" %}
+
+. This outsider, not only comes from a place which lies beyond the imaginative boundaries of Hindu empires, but, in his lying beyond the spatial boundaries, this outsider simultaneously lies also beyond the moral codes and ethical conducts operational within the world of the Rajput kingdom: if Rajputs are people of Honor, Khilji is the king of deceits, if Rajputs respects their women, Khilji rapes and partakes in compulsive infidelity, if Rajputs offers hospitality to the foreigners, Khilji is the foreigner who takes advantages of other’s hospitality. This list could go on. But for our purpose here, what is crucial to note here is that the movie, while framing the antagonisms like any good old Bollywood drama, establishes them under the sign of historical narrative itself. Recall, it is Jayasi’s 16th century epic narrative, the disclaimer reminds us, is the primary reference for Bhansali’s film-narrative. 
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide19.jpg" class="img-fluid rounded z-depth-1" %}
+
+ The first question then that needs to be asked is: to what extent does Bhansali’s Padmavaat observes its fidelity to the narrative which it claims to have been based upon? The first (and maybe the most crucial) distinction that demands highlighting here between the text and its cinematic adaptation is the ‘genre’ within which the story getsnarrated. Jayasi’s Padmavat, being an epic narrative, not just focuses on Ratansen’s [Ratansimha] ‘adventures’ before his marriage to Padmavati, but even his marriage to Padmavati is framed within the structure of an epic: Ratansen, upon learning of incredible beauty of Padmavati has to make a journey to a distant land and go through a cycle of adventures before he can even reach the kingdom of Sinhala and finally marry Padmavati. It is this motif of ‘adventure’ which is the first thing to disappears in Bhansali’s adaption. What was originally a Sufi epic of Ratansen’s adventures, now gets reduced to being a historical tragedy of epic proportions. [This question over the history of ‘genre’ and how genres facilitates interpretation opens up a whole another domain of inquiry which I am skipping here].  
+
+ 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide20.jpg" class="img-fluid rounded z-depth-1" %}
+
+This change of genre, while being the first crucial modification, is not the only one that occurs Jayasi’s text and Bhansali’s movie. The second, and maybe the more consequential change, happens at the level of sexual politics. Within Jayasi’s text, Padmavati, along with Ratansen’s first wife Nagmati, decides to commit ‘sati’  not because of Khilji’s (i.e., a Muslim man’s) insatiable desire to possess her, but because of Ratansen’s death during his fight with Devpal, a Rajput king of the neighboring kingdom, who morally and sexually transgresses by sending a marriage proposal to Padmavati during Ratansen’s captivity by Khilji. This whole dynamic of inter-warring Rajput kingdoms completely disappears from Bhansali’s movie, and what appears instead is an affectively charged scene full of grand dialogues and swelling music where Rajput women “fights a war” by committing ‘Jauhar.’ 
+
+Between changing genres and igniting Jauhar, what then is the story that appears on screen in 21st century under the name of Padmavaat? Baijyanti Roy argues that “between 16th and 18th century, several renditions of Padmavaat legend were written and circulated within India, including “Rajput narratives [which] revolved around the conflict with Muslim emperor” (Roy 18). The changes and the deviations we see from Jaysi’s narrative (including the change in the enemy), are symptomatic of the historical threats that Rajput kings felt of the “imperial ambitions of Mughal emperors” (ibid). Devpal’s disappearance from the narrative, and with him the disappearance of inter-warring Rajput Kingdoms, happens as the narrative starts re-aligning itself along the ideological axis of Rajput-Mughal rivalry. It is precisely this historical re-aligning of Jayasi’s text within Rajput narratives that ends up producing Khilji as an ultimate alien aggressor who disrupts Rajput sovereignty (both towards their land and their women). The ‘Khilji’ then which appears within Bhansali film is very much a Khilji of the Rajput narratives and less of a Khilji of Jayasi’s text.    
+
+But are we here on the fact-verification mission, deciding whose Khilji is it that appears on the movie screen in 21st century? Or, to put it pragmatically, would the film’s relation to pre-colonial history be set straight simply by removing Jayasi’s name form the disclaimer, and mentioning instead the Rajput narratives through which the story emerges? While fact verification does play a crucial role in identifying whether what appears on screen has historical basis to it, my aim here in tracing the changes that occurs between Jayasi’s text and Bhansali’s movie is to show precisely how those very changes within the narratives are themselves product of historical forces. Devpal’s disappearance from Rajput narratives is a very good example of the re-writing, or better over-writing, that happens to narratives as they move through the tense landscapes of history. 
+
+The story, however, doesn’t end here. I promised to show how the perception of pre-colonial narratives is heavily dictated by the scripts of colonial episteme. Where, you might ask, is the British colonial empire in any of this? 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide21.jpg" class="img-fluid rounded z-depth-1" %}
+
+ James Todd, a resident of East India company and a political agent to the Rajput States, publishes a book titled Annals and Antiquity of Rajasthan Or The Central and Western Rajpoot States of India in the year 1829. The book is written as a good old Victorian encyclopedia which contains everything from the “Geography,” “History,” to the “Sketches of a Feudal System,” “Religion,” and even the “Personal Narrative.” And it is precisely within these pages of Tod’s history of Rajasthan that one finds the Rajput narratives of Padmavati recorded. Tod’s text not only became “accepted as history by the English educated nationalists,” but the stories he recounted, especially of Rajput bravery, got re-fracted and were read through the anti-colonial and nationalist lens. The much-needed “glorious past,” which the anti-colonial nationalist thought was crucial in producing an idea of national identity, gets discovered within the pages of Tod’s text.  
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide22.jpg" class="img-fluid rounded z-depth-1" %}
+
+ Who knew that pre-colonial Rajput narratives, collected by an East India company worker and popularized by the anti-colonial nationalist, will make a return on the screens of post-colonial India? But then, within the recent wave of Hindu nationalism and particularly its own investment in finding “glorious pasts,” it should come as no surprise that what is being revived are the same narratives which were once evoked to ferment another kind of nationalism that too were in search for “glorious pasts.” While for the anti-colonial nationalists, the “glorious pasts” of the before operated as a buttress for forming revolutionary anti-colonial nationalisms, the reactionary nationalism of the present is deploying the very same ‘before’ but this time to produce a sanitizes (and sanskritized) image of Hindu nation. In both of the cases, it is the past that is being re-structured and history changing its form and image. What we are witnessing within this moment of resurgence of Historical Drama on the screen of Bollywood is precisely a restructuring of relationship which the post-colonial India has with its pre-colonial History 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide23.jpg" class="img-fluid rounded z-depth-1" %}
+
+ 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide24.jpg" class="img-fluid rounded z-depth-1" %}
+
+ 
+
+{% include figure.liquid loading="eager" path="assets/img/chicago2023_slide25.jpg" class="img-fluid rounded z-depth-1" %}
+
+.  
+
+…..
