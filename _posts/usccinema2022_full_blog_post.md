@@ -1,0 +1,101 @@
+---
+layout: post
+title: "मेरे पास माँ है: Material and Sentimental Excess in Visual Cultures of Post-Colonial India"
+date: 2022-01-15
+description: On sentiment, materiality, and excess in post-colonial Bollywood cinema
+tags: [bollywood, cinema, india, visual-culture, postcolonialism]
+categories: [conference-paper]
+giscus_comments: false
+---
+
+मेरे पास माँ है| : Material and Sentimental Excess in Visual Cultures of Post-Colonial India
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide1.jpg" class="img-fluid rounded z-depth-1" %}
+
+
+
+Allow me to begin in medias-res with a short clip from the 1975 movie Deewar starring Amitabh Bachchan and Shashi Kapoor (Dir. by Yash Chopra) 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide2.jpg" class="img-fluid rounded z-depth-1" %}
+
+
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide4.jpg" class="img-fluid rounded z-depth-1" %}
+
+ The scene, as it might have already been clear with all the tense background score and the emotionally charged acting by the actors, is a scene of a dramatic conversation between two characters . There is, on the one hand, the character of Vijay Verma (played by Amitabh Bachchan), dressed in professional two-piece suite, speaking passionately about his material possession. While, on the other hand, there is the character of Ravi Verma (played by Shashi Kapoor), dressed in simple shirt and pant, responding to Vijay’s passionate provocations with measured, stoic, but nonetheless sentimental short responses. The context of the conversation, without going too much into the details of the narrative, is quite straightforward: Vijay (the character in suit) has called Ravi, his biological but now estranged brother, to advise him to move to a different city as his life might be in danger. Ravi, on the other hand, is quite adamant about remaining in the city and continuing to perform his duty even at the risk of his life. There is, as it is quite apparent from the clip, a strong (or better ‘excessive’) distinction characterizing the two brothers. From their external comportment [their mode of dressing (suit vs shirt-pant)] to even their subjective signatures [their manner of speaking (passionate vs stoic)], it seems as if they occupy the very opposite site of the personality spectrum. This extreme and excessive distinction between the two characters, I should note, is situated within the framework of much larger distinction dictating over their lives: the distinction in their economic class, and more importantly, the distinction in their respective profession (which, as we will see shortly, are not unrelated): Vijay, dressed in suit and arriving for the meeting in a convertible car, is a member of underworld gang. While Ravi, dressed in simple shirt and pant, is an honest police officer. 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide5.jpg" class="img-fluid rounded z-depth-1" %}
+
+ 
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide6.jpg" class="img-fluid rounded z-depth-1" %}
+
+ So much for situating the scene within the broader narrative of the film narrative. Coming back to the content of the clip as such, one of thing which stands out immediately from this conversation between two brothers is the excessive use of sentimentality. From Vijay’s advise to Ravi’s refusal, each and every sentence is imbibed with heightened sentiments and delivered with absolute theatricality. Remind here yourself of Ravi’s response, citing his “ideals and principles” which won’t allow him to take transfer to a different city. And more crucially, remind yourself here of Vijay’s response to Ravi where he says [“ऊफ, तुम्हारे उसूल, तुम्हारे आदर्श”] “Oof, Your Ideals and Principles! All your ideals combined cannot even make you enough bread for a single meal.” It is as if there cannot be even a single sentence, a single point within a conversation, that is not either excessively dramatized or imbibed with excessive sentiments.  
+
+For those of us familiar with the language of Bollywood, the excessive sentimentality presented in the conversation, along with the fact of the characters being staged as polar opposites [one is police, the other gangster], would be nothing but symptomatic of the general proclivity of the Bollywood cinema to rely upon staging ‘excess’ 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide7.jpg" class="img-fluid rounded z-depth-1" %}
+
+. As Ulka Anjaria argues in her recent study of Bollywood (‘Understanding Bollywood: The grammar of Hindi Cinema’) “Aesthetically Bollywood is characterized by excess”―from “extravagant song sequences, brightly colored costumes, shiny jewelry, expansive sets,” to “heightened emotions, hyperbolic gestures, swelling music, thrilling chases, beautiful actors, and unbelievable plots,” everything ends up occupying one or the other end of the extremity, with hardly anything left which remains untouched by the general excess that is Bollywood.  It would be pertinent to note here that Anjaria, while being the latest iteration of equating ‘Bollywood aesthetics’ with ‘excess,’ is hardly the first one to do so. Within South Asian Cinema studies, there is almost a general consensus by now which takes and treats the Bollywood cinema as inherently excessive [cf. Rachel Dwyer, Divya Patel, Rosie Thomas, etc.]. This is to say, and coming back to our clip from Deewar, one could very well read the excessive passion and sentiment animating this brief conversation between Vijay and Ravi as yet another instantiation of the generic ‘aesthetic excess’ animating the Bollywood in general. 
+
+However, and here finally is my contention, what if we don’t simply read and classify the conversation between Vijay and Ravi as yet another iteration of Bollywood’s proclivity for staging ‘excess’; and instead try to take the ‘stereotypical’ Bollywood ‘excess’ seriously? Or, to put it in different words, what if we read the ‘excess’ as situated within the broader narrative framework of the film-text, and try to understand ‘why’ and ‘how’ this excess emerge, and ‘what’ is it that it is responding to? Just so that it is clear, I don’t think readers like Anjaria, Dwyer, et al. are simply mistaken in arguing/reading for the ‘Aesthetics excess’ present in Bollywood cinema. Nevertheless, I do think that it hardly is productive to classify (and by classifying, read) any and every instance of heightened sentimentality/passions/emotion as yet another example of ‘typical Bollywood excess’. By making such general ‘categorical reading,’ one not only runs the danger of barring any further sincere engagement with particular phenomenon that is Bollywood, but, more crucially, in treating this peculiarity of cultural force of Bollywood as some eccentricity with no meaning, such gestures of generalized reading run the risk of covering-up the broader social field within which this cinema exists. After all, this ‘aesthetic excess’ is not simply an instance of a coded logic of Bollywood cinema, but rather, it is a socio-cultural field in which ‘excess’ speaks to its audience and makes sense. Last but not the least, even if we are to forget about this broader social-field and come back at the level of academic argument, it seems to me that in classifying Bollywood Aesthetics (as simply-) excessive, one, at best, makes a blanket argument, and at its worst, produce a knowledge claim which seems to come out of stereotypical (and, to be more precise, ‘Oriental’) idea of India as a site of ‘excess.’  
+
+Now that I have set the stage (and explained my ‘drama’ with fellow Bollywood film scholars) allow me to share a simple and pretty straightforward aim of my presentation today:  by playing close attention to the phenomenon of aesthetic (and particularly sentimental-) ‘excess’ in Deewar, I will attempt to investigate the functioning of ‘excess’ within the film-text 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide8.jpg" class="img-fluid rounded z-depth-1" %}
+
+. For this purpose of my investigation/interrogation, I will ask: ‘Where does ‘excess’ emerge/erupt within the narrative timeline’ and ‘What are the registers on which it operates.’ Is it, as Bollywood stereotypes would have us believe, mostly a subjective qua private phenomenon that typically includes the emotional excess of the characters? Or is ‘excess’ a subjective response to the broader material conditions within which the character exists? As a disclaimer, I should note that that I might not be able to do perfect justice to these questions; but nevertheless, these questions form the crucial background and broader framework within which my inquiry is situated. 
+
+As our point of departure, let us return to conversation from Deewar with which we began, but this time with an eye towards the end of the conversation as it reaches its climax. After failing to convince Ravi to relocate, Vijay’s speech, as we see, turns into a passionate outburst where he denigrates the ‘principles’ (उसूल) and ‘ideals’ (आदर्श) of his brother Ravi. He recounts an excessive list of material and capital possessions which he owns, so as to mark a stark contrast to the few rented objects upon which Ravi sustains his life [“a 500 rupees job, a rented apartment, and government jeep”]― “Today, I own buildings,” Vijay says, “real estate properties, have bank balance, own a bungalow, [have] a car. What is it that you have?” A pause follows with a quick shot-reverse shot and the music reaches its crescendo, with Ravi finally replying―in what would end-up being one of the most famous replies of the 20th century Bollywood cinema― मेरे पास माँ है [I have our mother] 
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide10.jpg" class="img-fluid rounded z-depth-1" %}
+
+ Isn’t it strange that a conversation which begins over the question of the ownership over ‘material wealth’ ends up dramatically trading in the currency of ‘personal sentiments’? From Vijay’s passionate enumeration of his capital ownership [buildings, real estate, cars], an enumeration which initially frames the conversation as a show-down amongst the siblings of their respective ‘material possession,’ the conversation abruptly and completely switches its registers and becomes by the end a show-down of who amongst the two owns ‘sentimental surplus.’ It should be noted here that this switching [from ‘material’ to ‘sentimental’] not only gets staged as perfectly logical turn in conversation, but, moreover, Ravi’s switch to the register to sentiment gets presented as both effective, superior, and, most importantly, devastating, to Vijay and his material ownership. Within the cinematic logic that is operational here, all of Vijay’s material possession suddenly stands impotent, without any “value” [à la Marx] in comparison to the precious ‘object’ within Ravi’s possesses (i.e., their widowed mother). 
+
+How is one to make sense of this switch, the distinction (and in distinction, the connection), operating between ‘capitalist material possession’ and ‘maternal sentimental surplus’? The conversation, after all, makes it distinctly clear that the “value” [à la Marx] of material objects could be brough into the cycle of exchange within the personal sentiments. That there is a certain ‘economy’ operating underneath which allows a strange sort of trade between the material and the sentimental. If so, what is the nature of this ‘exchange economy’?  It seems to me that a good way to begin responding to these questions would by tracing the sites, within the film-text, where we see material possession being put into circulation with personal sentiments. 
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide11.jpg" class="img-fluid rounded z-depth-1" %}
+
+ The first time we see ‘material possession’ being juxtaposed with the ‘sentimental excess’ is, interestingly enough, not within the life of Vijay or Ravi, but, within the brief narrative we get of their father, Anandbabu, a union leader of coal workers association. For those not familiar with the narrative, the film begins as an extended flashback, with Vijay and Ravi as kids growing up in an unnamed coal town. In the very first shot of this flashback, we see Anandbabu giving a passionate speech to hundreds of labourers as they strike for “fair wages and workers rights,” for “hospitals and good schools.” “Why does the worker who takes out coal from the mines,” asks Anandbaby passionately, “finds himself without any fuel for his own kitchen?” His speech, of course, would not be limited to this single question, and will bring up other concerns in life of a coal miner. But for our purpose here, this question is quite representative of the material conditions of labourers for which Anandbabu is fighting for. However, soon after, the strike goes awry as the owner of coal mines [simply named ‘Sethji’] calls Anandbabu under the façade of negotiating a compromise and instead blackmails him in signing a compromised contact at the risk losing his whole family 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide12.jpg" class="img-fluid rounded z-depth-1" %}
+
+.
+
+
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide13.jpg" class="img-fluid rounded z-depth-1" %}
+
+ If we had more time, it would have been helpful to see the whole conversation, and especially the transition from the (objective-) language of workers rights and contracts, to a (subjective-)sentiment of feeling desperation and helpless. Nevertheless, even form this short clip, it is quite clear how the narrative turns the question of material conditions and rights of workers into a personal and excessively sentimental conversation. Note i) not only how the character of Anandbabu, the “most honest” and dedicated leader of the workers union suddenly change into a sentimental and desperate husband, but note also ii) how this moment of dramatic change is visualized with roaring and flashing thunders― as if the compromise over the material conditions of the worker due to the sentimental reasons, gets reflected back into the material condition of the broader atmospheric environment itself. Note particularly here how the film narrative establishes an ‘economy’ between the worker’s material rights, Anandbabu’s familial sentiments, and broader material conditions of the environment, as they all trade with each other. 
+
+Here, if we are to take a step back from close reading of the episode and think about the general theoretical implications of this incident, the first thing to immediately stand out (from this episode) is the complete refraction of material conditions [of workers] via subjective sentiments, and vice-versa. It is not just that the compromise which Anandbabu is forced to strike is because of excessive sentiments he feels for his family, but, interestingly and importantly, this very compromise over worker’s material rights is staged as brimming with excessive sentiments/emotions. Remind here yourself of 20 second long short-reverse shot sequence, with flashing lights and tense background music, where we see Anandbabu’s emotional face being juxtaposed with those of Sethji’s goons 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide14.jpg" class="img-fluid rounded z-depth-1" %}
+
+. It is quite clear that the act of signing on the compromised contract is as sentimental as that of the fear of loosing one’s family. Or, to put it briefly, there is no objective materiality which is experienced without sentiments. And no sentiments which are not, always already, tied up with material concerns. 
+
+This entanglement of material objects with personal sentiments gets highlighted later in the narrative too, right before the falling out of the two brothers. We see Vijay, who by now a well-established gangster, finalizing a deal of buying a high-rise building from a certain Mr. Agarwal. During the conversation, Agarwal observes that Vijay overpaid for the building and concludes that he lacks in the skill of doing profitable business. To Agarwal’s accusation, Vijay responds by saying that it is Agarwal who lacks business skills, as he would have paid a million more if Agarwal had made the demand. 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide15.jpg" class="img-fluid rounded z-depth-1" %}
+
+ 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide16.jpg" class="img-fluid rounded z-depth-1" %}
+
+ It is then revealed that the high-rise which Vijay has bought is the same high-rise where his mother use to work as a construction labourer 20 years back. Vijay is buying the building not for its value as materialist possession, but rather for the purpose of gifting the building to his mother; and in process, one can argue, enjoying the ‘sentimental surplus’ which the building offers. Just like his father, Anadbabu, to whom the actions, judgements, and decisions pertaining to material condition of life circulates within the economy of sentiments, here too we see Vijay making ‘business’ (qua ‘capital’) decisions in where the “value” of the object gets refracted through personal sentiments [and vice-versa]. 
+
+There are further instances in the narrative which could be quoted, further events where the theme of ‘materialist’ possession gets entangled, refracted, and read via the register of the ‘sentiments.’ However, for our purpose of thinking ‘excess,’ the three incidents we looked over [viz. conversation between Vijay-Ravi, signing of compromised labour contract, buying of a high-rise building] should be more than sufficient for now. From all three of these instances, one of the fist things I want highlight is fact that the ‘sentimental excess,’ which ruptures sober narrative frame, is not simply a ‘hysteric’ outburst that is provoked sans reason. Instead, the sentiments are framed as a subjective response to the material disparities of the world. Ravi, when he responds by saying, “I have my mother,” is responding to the material disparities existing between him and Vijay. Anandbabu, when he sentimentally signs the compromised contract, is responding to the disparities between the workers and ‘Sethji’ (owner of mines). And, finally, Vijay when he buys the high-rise in order to gift it to his mother, his sentiments also emerge from the material disparities within his own personal history― after all, Vijay’s childhood is spent working as a shoe-polisher on footpath before him ending up as a bigshot millionaire of underworld business circles. All this is to say, and this would be my argument here, ‘sentimental’ excess emerges both as a reaction to and a resolution of the existing material disparities within a society; a society which is undergoing the process of modernization. Within the material qua capital gap existing between a worker and the owner of coal mines, a humble police officer and a rich mobster, it is the ‘excessive sentiments’ which acts as ‘filler’ to the emerging gaps/disparities of the social. I am not arguing here that sentiments solve the material disparities, but rather that they emerge as a resolution (as temporary as it may be) to the antinomies of the capitalist modernization in a post-colonial nation 
+
+{% include figure.liquid loading="eager" path="assets/img/usccinema2022_slide17.jpg" class="img-fluid rounded z-depth-1" %}
+
+.    
