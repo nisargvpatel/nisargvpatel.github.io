@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "Technics of Literature: An Introduction to Literature and Literary Theory in India"
-description: "An introductory course on literature and literary theory in India from the eighteenth to the twenty-first centuries."
+description: "An introductory exploration of modern Indian literature through its key texts, debates, and theoretical frameworks."
 instructor: Nisarg Patel
 year: "Future Undergraduate Course (literary theory)"
 term: TBA
