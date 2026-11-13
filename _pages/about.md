@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Nisarg Patel [નિસર્ગ પટેલ], a Ph.D. candidate in the Comparative Media and Culture program at the University of Southern California (joined 2021). A South Asianist by training, I am currently working on a dissertation project titled “Enframed: Visual Culture(s) and the Changing Perceptions of History in India (1860-1960).” 
+I am Nisarg Patel [નિસર્ગ પટેલ], a Ph.D. candidate in the Comparative Studies in Literature and Culture program at the University of Southern California (joined 2021). A South Asianist by training, I am currently working on a dissertation project titled “Enframed: Visual Culture(s) and the Changing Perceptions of History in India (1860-1960).” 
 
 My dissertation brings together two central categories of phenomenological research, namely ‘history’ and ‘perception’, and expands them by engaging with colonial visual culture and the role it played in constructing a ‘perception of history’ within the scene of 19th- and 20th-century imperial India. I examine 19th-century colonial stereographs, 20th-century Indian cinema, and post-colonial vernacular literature in order to trace the shifts in ‘perception of history’ and, thereby, construct a ‘history of perception.’
 
